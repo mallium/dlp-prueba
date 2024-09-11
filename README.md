@@ -3,8 +3,8 @@ descripción del proyecto
 
 ## Sprint 1
 ### Tareas
-| Actividad | Responsable | Estado (-, en proceso, terminada)
-| --------- | ----------- | ---------------------------------
+| Actividad | Responsable | Estado (-, en proceso, terminada) |
+| --------- | ----------- | --------------------------------- |
 | crear repositorio para el proyecto| ? | en proceso |
 | confeccionar mockup de página principal de catálogo | ? | - |
 | buscar librerías de next/react/js para generar QR | ? | - |
